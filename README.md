@@ -1,2 +1,2 @@
 # iznarasool-demo-
-This is my first ever GitHub project.
+This is my first ever GitHub repository.
